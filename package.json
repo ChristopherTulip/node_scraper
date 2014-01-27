@@ -1,0 +1,28 @@
+{
+  "name": "node_scraper",
+  "version": "0.0.0",
+  "description": "basic scraping app",
+  "main": "index.js",
+  "scripts": {
+    "test": "spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChristopherTulip/node_scraper.git"
+  },
+  "keywords": [
+    "Node",
+    "Scraping",
+    "Javascript"
+  ],
+  "author": "Christopher Tulip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherTulip/node_scraper/issues"
+  },
+  "homepage": "https://github.com/ChristopherTulip/node_scraper",
+  "dependencies": {
+    "cheerio": "~0.13.1",
+    "request": "~2.31.0"
+  }
+}
